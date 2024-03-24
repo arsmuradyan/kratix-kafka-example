@@ -1,0 +1,6 @@
+apiVersion:  promise.styxsoft.io/v1
+kind: kafka
+metadata:
+  name: kafka-promise-request
+spec:
+  replicas: 2
